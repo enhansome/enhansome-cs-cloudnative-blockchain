@@ -59,7 +59,7 @@
 
 📄 保存为 PDF 方式：使用 Chrome 浏览器打开 <a href="https://go.cubxxw.com">📚 DocCub 文档</a> 页面，缩起左侧目录-右键 - 打印 - 选择目标打印机是另存为PDF - 保存  —— [🖨️以Go语言第一节打印效果预览.pdf](./images/copy.pdf)）
 
-🙏 仓库内容如有错误或改进欢迎 [issue](https://github.com/cubxxw/cs-awesome-Block_Chain/issues) ⭐ 1,370 | 🐛 7 | 🌐 Solidity | 📅 2026-07-23 或 pr，[🧷参与贡献](https://cubxxw.com/archives/contributors)，建议或讨论可在 [#10](https://github.com/cubxxw/cs-awesome-Block_Chain/issues/10) ⭐ 1,370 | 🐛 7 | 🌐 Solidity | 📅 2026-07-23 提出。由于本人水平有限，仓库中的知识点有来自本人原创、读书笔记、书籍、博文等，非原创均已标明出处，如有遗漏，请 [issue](https://github.com/cubxxw/cs-awesome-Block_Chain/issues/new/choose) ⭐ 1,370 | 🐛 7 | 🌐 Solidity | 📅 2026-07-23 提出。本仓库遵循 [CC BY-NC-SA 4.0（署名 - 非商业性使用 - 相同方式共享）](https://github.com/huihut/interview/blob/master/LICENSE) ⭐ 38,138 | 🐛 2 | 🌐 C++ | 📅 2025-08-24 协议，转载请注明出处，不得用于商业目的。
+🙏 仓库内容如有错误或改进欢迎 [issue](https://github.com/cubxxw/cs-awesome-Block_Chain/issues) ⭐ 1,370 | 🐛 7 | 🌐 Solidity | 📅 2026-07-23 或 pr，[🧷参与贡献](https://cubxxw.com/archives/contributors)，建议或讨论可在 [#10](https://github.com/cubxxw/cs-awesome-Block_Chain/issues/10) ⭐ 1,370 | 🐛 7 | 🌐 Solidity | 📅 2026-07-23 提出。由于本人水平有限，仓库中的知识点有来自本人原创、读书笔记、书籍、博文等，非原创均已标明出处，如有遗漏，请 [issue](https://github.com/cubxxw/cs-awesome-Block_Chain/issues/new/choose) ⭐ 1,370 | 🐛 7 | 🌐 Solidity | 📅 2026-07-23 提出。本仓库遵循 [CC BY-NC-SA 4.0（署名 - 非商业性使用 - 相同方式共享）](https://github.com/huihut/interview/blob/master/LICENSE) ⭐ 38,139 | 🐛 2 | 🌐 C++ | 📅 2025-08-24 协议，转载请注明出处，不得用于商业目的。
 
 </details>
 
@@ -348,7 +348,7 @@ CS 系列选自[🎉awesome-cs-course](https://github.com/cubxxw/awesome-cs-cour
 
 为了方便管理，我将所有的知识仓库以及贡献开源项目所克隆的仓库放在了我的个人账户 [cubxxw](https://github.com) 中，将所有的项目和规范有关的仓库都放在了自己创建的社区 [kubecub](https://github.com/kubecub) 中方便所有人加入并且学习，并且将所有自动化相关的账户都使用了 [robot(kubbot)](https://github.com/kubbot) 机器人来进行自动化和控制。
 
-我参与过很多顶级开源社区，包括 [sealer](https://github.com/sealerio/sealer) ⭐ 2,096 | 🐛 228 | 🌐 Go | 📅 2025-06-03、[sealos](https://github.com/labring/sealos) ⭐ 18,312 | 🐛 94 | 🌐 TypeScript | 📅 2026-08-19、[Kubernetes](https://github.com/kubernetes/kubernetes/) ⭐ 124,584 | 🐛 2,956 | 🌐 Go | 📅 2026-08-18、[OpenIM](https://github.com/OpenIMSDK)、[K8sgpt](https://github.com/k8sgpt-ai/k8sgpt) ⭐ 8,089 | 🐛 78 | 🌐 Go | 📅 2026-08-19、[Horizon](https://github.com/horizoncd/horizon/) ⭐ 256 | 🐛 4 | 🌐 Go | 📅 2026-06-17 以及 我自己打造的 开源社区 [Kubecub](https://github.com/kubecub)。kubecub 中有很多我沉淀下来的开源规范以及代码、项目规范都总结在各个仓库中。并且，Kubecub 和 OpenIM 使用了我创造的 [🤖 robot(kubbot)](https://github.com/kubbot) 来对 PR 和 Issue 高度自动化。kubecub 宗旨是面向所有的开发者进行学习和创造的，你可以在里面利用我们的自动化工具和模板打造自己的开源项目，并且让更多的人来帮助你协同、review 代码。
+我参与过很多顶级开源社区，包括 [sealer](https://github.com/sealerio/sealer) ⭐ 2,096 | 🐛 228 | 🌐 Go | 📅 2025-06-03、[sealos](https://github.com/labring/sealos) ⭐ 18,314 | 🐛 93 | 🌐 TypeScript | 📅 2026-08-19、[Kubernetes](https://github.com/kubernetes/kubernetes/) ⭐ 124,592 | 🐛 2,958 | 🌐 Go | 📅 2026-08-18、[OpenIM](https://github.com/OpenIMSDK)、[K8sgpt](https://github.com/k8sgpt-ai/k8sgpt) ⭐ 8,090 | 🐛 74 | 🌐 Go | 📅 2026-08-19、[Horizon](https://github.com/horizoncd/horizon/) ⭐ 256 | 🐛 4 | 🌐 Go | 📅 2026-06-17 以及 我自己打造的 开源社区 [Kubecub](https://github.com/kubecub)。kubecub 中有很多我沉淀下来的开源规范以及代码、项目规范都总结在各个仓库中。并且，Kubecub 和 OpenIM 使用了我创造的 [🤖 robot(kubbot)](https://github.com/kubbot) 来对 PR 和 Issue 高度自动化。kubecub 宗旨是面向所有的开发者进行学习和创造的，你可以在里面利用我们的自动化工具和模板打造自己的开源项目，并且让更多的人来帮助你协同、review 代码。
 
 在里面积累了很多的开源经验，并且记录在我的 [博客](https://cubxxw.com) 中，其中，很多的提案和在贡献的成长笔记，所学习到的知识都在 [CloudNative](https://docker.cubxxw.com/Cloud-Native/) 这篇知识库中有所记录。
 
