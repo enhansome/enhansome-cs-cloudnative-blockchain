@@ -59,7 +59,7 @@
 
 📄 保存为 PDF 方式：使用 Chrome 浏览器打开 <a href="https://go.cubxxw.com">📚 DocCub 文档</a> 页面，缩起左侧目录-右键 - 打印 - 选择目标打印机是另存为PDF - 保存  —— [🖨️以Go语言第一节打印效果预览.pdf](./images/copy.pdf)）
 
-🙏 仓库内容如有错误或改进欢迎 [issue](https://github.com/cubxxw/cs-awesome-Block_Chain/issues) ⭐ 1,370 | 🐛 7 | 🌐 Solidity | 📅 2026-07-23 或 pr，[🧷参与贡献](https://cubxxw.com/archives/contributors)，建议或讨论可在 [#10](https://github.com/cubxxw/cs-awesome-Block_Chain/issues/10) ⭐ 1,370 | 🐛 7 | 🌐 Solidity | 📅 2026-07-23 提出。由于本人水平有限，仓库中的知识点有来自本人原创、读书笔记、书籍、博文等，非原创均已标明出处，如有遗漏，请 [issue](https://github.com/cubxxw/cs-awesome-Block_Chain/issues/new/choose) ⭐ 1,370 | 🐛 7 | 🌐 Solidity | 📅 2026-07-23 提出。本仓库遵循 [CC BY-NC-SA 4.0（署名 - 非商业性使用 - 相同方式共享）](https://github.com/huihut/interview/blob/master/LICENSE) ⭐ 38,139 | 🐛 2 | 🌐 C++ | 📅 2025-08-24 协议，转载请注明出处，不得用于商业目的。
+🙏 仓库内容如有错误或改进欢迎 [issue](https://github.com/cubxxw/cs-awesome-Block_Chain/issues) ⭐ 1,370 | 🐛 7 | 🌐 Solidity | 📅 2026-07-23 或 pr，[🧷参与贡献](https://cubxxw.com/archives/contributors)，建议或讨论可在 [#10](https://github.com/cubxxw/cs-awesome-Block_Chain/issues/10) ⭐ 1,370 | 🐛 7 | 🌐 Solidity | 📅 2026-07-23 提出。由于本人水平有限，仓库中的知识点有来自本人原创、读书笔记、书籍、博文等，非原创均已标明出处，如有遗漏，请 [issue](https://github.com/cubxxw/cs-awesome-Block_Chain/issues/new/choose) ⭐ 1,370 | 🐛 7 | 🌐 Solidity | 📅 2026-07-23 提出。本仓库遵循 [CC BY-NC-SA 4.0（署名 - 非商业性使用 - 相同方式共享）](https://github.com/huihut/interview/blob/master/LICENSE) ⭐ 38,141 | 🐛 2 | 🌐 C++ | 📅 2025-08-24 协议，转载请注明出处，不得用于商业目的。
 
 </details>
 
@@ -224,7 +224,7 @@ graph LR
 
 #### 📝补充
 
-学习开源项目对于我们的成长非常大，我结合我自己的开源经历写了[这篇🎯开源之路：跨越八个阶段，成就行业佼佼者](https://nsddd.notion.site/f8854a0f60d346d98b9eb2ccb6eaef8f)。同[🧋 学习 Kubernetes 的成长轨迹](https://nsddd.notion.site/CloudNative-Kubernetes-2f278e98ed274999829333272415c72d)一样，这篇文章将会长期更新，也可以参与贡献 ，补全更新\~。[k8s-iam](https://github.com/cubxxw/k8s-iam) ⭐ 2 | 🐛 0 | 🌐 Makefile | 📅 2023-04-28 项目就是我结合Kubernetes 和 iam 这两个极为优秀的项目联合打造的k8s-iam 项目，对 [企业级 iam 项目](https://github.com/marmotedu/iam/) ⭐ 4,205 | 🐛 25 | 🌐 Go | 📅 2025-03-20 进行学习和仿写，以及对开源文档和技术细节的输出。iam 技术栈涵盖了开发环境配置、代码设计、常用包使用、HTTP、客户端CLI、RESTful设计、数据库操作、Swagger文档、Cache机制、业务逻辑处理、开发规范、API调试、部署方式和云原生架构设计等方面。有兴趣的可以一起阅读学习。
+学习开源项目对于我们的成长非常大，我结合我自己的开源经历写了[这篇🎯开源之路：跨越八个阶段，成就行业佼佼者](https://nsddd.notion.site/f8854a0f60d346d98b9eb2ccb6eaef8f)。同[🧋 学习 Kubernetes 的成长轨迹](https://nsddd.notion.site/CloudNative-Kubernetes-2f278e98ed274999829333272415c72d)一样，这篇文章将会长期更新，也可以参与贡献 ，补全更新\~。[k8s-iam](https://github.com/cubxxw/k8s-iam) ⭐ 2 | 🐛 0 | 🌐 Makefile | 📅 2023-04-28 项目就是我结合Kubernetes 和 iam 这两个极为优秀的项目联合打造的k8s-iam 项目，对 [企业级 iam 项目](https://github.com/marmotedu/iam/) ⭐ 4,204 | 🐛 25 | 🌐 Go | 📅 2025-03-20 进行学习和仿写，以及对开源文档和技术细节的输出。iam 技术栈涵盖了开发环境配置、代码设计、常用包使用、HTTP、客户端CLI、RESTful设计、数据库操作、Swagger文档、Cache机制、业务逻辑处理、开发规范、API调试、部署方式和云原生架构设计等方面。有兴趣的可以一起阅读学习。
 
 🥇 命名规范以及项目目录结构📇的设定对于一名合格的工程师来说也是非常重要的。下面是作为一名合格的开发者🤵，必须要会的基本素养。
 
@@ -348,7 +348,7 @@ CS 系列选自[🎉awesome-cs-course](https://github.com/cubxxw/awesome-cs-cour
 
 为了方便管理，我将所有的知识仓库以及贡献开源项目所克隆的仓库放在了我的个人账户 [cubxxw](https://github.com) 中，将所有的项目和规范有关的仓库都放在了自己创建的社区 [kubecub](https://github.com/kubecub) 中方便所有人加入并且学习，并且将所有自动化相关的账户都使用了 [robot(kubbot)](https://github.com/kubbot) 机器人来进行自动化和控制。
 
-我参与过很多顶级开源社区，包括 [sealer](https://github.com/sealerio/sealer) ⭐ 2,096 | 🐛 228 | 🌐 Go | 📅 2025-06-03、[sealos](https://github.com/labring/sealos) ⭐ 18,314 | 🐛 93 | 🌐 TypeScript | 📅 2026-08-19、[Kubernetes](https://github.com/kubernetes/kubernetes/) ⭐ 124,592 | 🐛 2,958 | 🌐 Go | 📅 2026-08-18、[OpenIM](https://github.com/OpenIMSDK)、[K8sgpt](https://github.com/k8sgpt-ai/k8sgpt) ⭐ 8,090 | 🐛 74 | 🌐 Go | 📅 2026-08-19、[Horizon](https://github.com/horizoncd/horizon/) ⭐ 256 | 🐛 4 | 🌐 Go | 📅 2026-06-17 以及 我自己打造的 开源社区 [Kubecub](https://github.com/kubecub)。kubecub 中有很多我沉淀下来的开源规范以及代码、项目规范都总结在各个仓库中。并且，Kubecub 和 OpenIM 使用了我创造的 [🤖 robot(kubbot)](https://github.com/kubbot) 来对 PR 和 Issue 高度自动化。kubecub 宗旨是面向所有的开发者进行学习和创造的，你可以在里面利用我们的自动化工具和模板打造自己的开源项目，并且让更多的人来帮助你协同、review 代码。
+我参与过很多顶级开源社区，包括 [sealer](https://github.com/sealerio/sealer) ⭐ 2,096 | 🐛 228 | 🌐 Go | 📅 2025-06-03、[sealos](https://github.com/labring/sealos) ⭐ 18,313 | 🐛 95 | 🌐 TypeScript | 📅 2026-08-20、[Kubernetes](https://github.com/kubernetes/kubernetes/) ⭐ 124,614 | 🐛 2,979 | 🌐 Go | 📅 2026-08-20、[OpenIM](https://github.com/OpenIMSDK)、[K8sgpt](https://github.com/k8sgpt-ai/k8sgpt) ⭐ 8,094 | 🐛 76 | 🌐 Go | 📅 2026-08-20、[Horizon](https://github.com/horizoncd/horizon/) ⭐ 257 | 🐛 4 | 🌐 Go | 📅 2026-06-17 以及 我自己打造的 开源社区 [Kubecub](https://github.com/kubecub)。kubecub 中有很多我沉淀下来的开源规范以及代码、项目规范都总结在各个仓库中。并且，Kubecub 和 OpenIM 使用了我创造的 [🤖 robot(kubbot)](https://github.com/kubbot) 来对 PR 和 Issue 高度自动化。kubecub 宗旨是面向所有的开发者进行学习和创造的，你可以在里面利用我们的自动化工具和模板打造自己的开源项目，并且让更多的人来帮助你协同、review 代码。
 
 在里面积累了很多的开源经验，并且记录在我的 [博客](https://cubxxw.com) 中，其中，很多的提案和在贡献的成长笔记，所学习到的知识都在 [CloudNative](https://docker.cubxxw.com/Cloud-Native/) 这篇知识库中有所记录。
 
@@ -410,4 +410,4 @@ CS 系列选自[🎉awesome-cs-course](https://github.com/cubxxw/awesome-cs-cour
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
