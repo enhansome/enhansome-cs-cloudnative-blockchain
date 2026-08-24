@@ -1,8 +1,23 @@
 {
   "items": [
     {
-      "description": "CS 系列选自🎉awesome-cs-course，内容涵盖 计算机操作系统、csapp系列、算法和数据结构、计算机网络、、、、、、、、、、、、、、、、、、前端等笔记，更多移步到AWESOME系列CS仓库地址",
+      "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "CS 系列选自🎉awesome-cs-course",
+          "description": "，内容涵盖 计算机操作系统、csapp系列、算法和数据结构、计算机网络、、、、、、、、、、、、、、、、、、前端等笔记，更多移步到AWESOME系列CS仓库地址",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 472343286,
+            "language": "Java",
+            "last_commit": "2026-07-23T05:43:11Z",
+            "owner": "cubxxw",
+            "repo": "awesome-cs-course",
+            "stars": 197
+          }
+        },
         {
           "node_type": "item",
           "title": "Java全册☕",
@@ -86,10 +101,52 @@
         }
       ],
       "title": "📘 开发必备技术"
+    },
+    {
+      "description": "为了方便管理，我将所有的知识仓库以及贡献开源项目所克隆的仓库放在了我的个人账户 cubxxw 中，将所有的项目和规范有关的仓库都放在了自己创建的社区 kubecub 中方便所有人加入并且学习，并且将所有自动化相关的账户都使用了 robot(kubbot) 机器人来进行自动化和控制。\n在里面积累了很多的开源经验，并且记录在我的 博客 中，其中，很多的提案和在贡献的成长笔记，所学习到的知识都在 CloudNative 这篇知识库中有所记录。\n欢迎加入 kubecub 社区一起学习、为开源做贡献 ! 为了方便每一位开源爱好者交流和学习，我们在 slack 中集成了 很多自动化工具以及 AI，欢迎大家 🔥加入 Slack。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "我参与过很多顶级开源社区，包括 sealer",
+          "description": "、sealos、Kubernetes、OpenIM、K8sgpt、Horizon 以及 我自己打造的 开源社区 Kubecub。kubecub 中有很多我沉淀下来的开源规范以及代码、项目规范都总结在各个仓库中。并且，Kubecub 和 OpenIM 使用了我创造的 🤖 robot(kubbot) 来对 PR 和 Issue 高度自动化。kubecub 宗旨是面向所有的开发者进行学习和创造的，你可以在里面利用我们的自动化工具和模板打造自己的开源项目，并且让更多的人来帮助你协同、review 代码。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 362675427,
+            "language": "Go",
+            "last_commit": "2025-06-03T08:29:24Z",
+            "owner": "sealerio",
+            "repo": "sealer",
+            "stars": 2096
+          }
+        }
+      ],
+      "title": "🗃️ 项目"
+    },
+    {
+      "description": "🫵 参与贡献💖❤️‍🩹💓💞\n😍 甚至你可以在这个界面按下进入vscode编译环境\n要求：\n🎯 如果你也想对本项目做出贡献，那么你可以先把该项目进行 fork或者 到本地（推荐先用 fock到自己仓库，然后再clone到本地，对本地进行操作，最后从自己仓库贡献，然后自己建立一个分支 ，然后上传资料到 对应目录 下，图片信息可以上传到，然后更新 。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "你需要学会使用markdown🖱️",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 472343286,
+            "language": "Java",
+            "last_commit": "2026-07-23T05:43:11Z",
+            "owner": "cubxxw",
+            "repo": "awesome-cs-course",
+            "stars": 197
+          }
+        }
+      ],
+      "title": "✨ 参与贡献💕"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:57:48.735Z",
+    "last_updated": "2026-08-24T14:10:53.480Z",
     "original_repository": "cubxxw/awesome-cs-cloudnative-blockchain",
     "original_repository_id": 444328164,
     "original_repository_sha": "0e8b172cfd40732bf4dd805d32467754ddd31f55",
