@@ -117,7 +117,7 @@
             "last_commit": "2025-06-03T08:29:24Z",
             "owner": "sealerio",
             "repo": "sealer",
-            "stars": 2096
+            "stars": 2095
           }
         }
       ],
@@ -146,9 +146,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:45:28.906Z",
-    "original_repository": "cubxxw/awesome-cs-cloudnative-blockchain",
-    "original_repository_id": 444328164,
+    "last_updated": "2026-08-27T11:32:52.630Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 444328164,
+      "language": "Solidity",
+      "last_commit": "2026-07-23T05:40:34Z",
+      "owner": "cubxxw",
+      "repo": "awesome-cs-cloudnative-blockchain",
+      "stars": 1370
+    },
     "original_repository_sha": "0e8b172cfd40732bf4dd805d32467754ddd31f55",
     "enhanced_repository": "enhansome/enhansome-cs-cloudnative-blockchain",
     "enhanced_repository_description": null,
