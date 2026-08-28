@@ -16,7 +16,8 @@
             "owner": "cubxxw",
             "repo": "awesome-cs-course",
             "stars": 197
-          }
+          },
+          "first_seen": "2026-08-28T19:16:28.126Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "cubxxw",
             "repo": "awesome-cs-course",
             "stars": 197
-          }
+          },
+          "first_seen": "2026-08-28T19:16:28.126Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "cubxxw",
             "repo": "os",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T19:16:28.126Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2026-07-23T05:39:32Z",
             "owner": "cubxxw",
             "repo": "LeetCode",
-            "stars": 11
-          }
+            "stars": 10
+          },
+          "first_seen": "2026-08-28T19:16:28.126Z"
         }
       ],
       "title": "📚 CS系列"
@@ -82,7 +86,8 @@
             "owner": "cubxxw",
             "repo": "awesome-cs-course",
             "stars": 197
-          }
+          },
+          "first_seen": "2026-08-28T19:16:28.126Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "cubxxw",
             "repo": "awesome-cs-course",
             "stars": 197
-          }
+          },
+          "first_seen": "2026-08-28T19:16:28.126Z"
         }
       ],
       "title": "📘 开发必备技术"
@@ -118,7 +124,8 @@
             "owner": "sealerio",
             "repo": "sealer",
             "stars": 2095
-          }
+          },
+          "first_seen": "2026-08-28T19:16:28.126Z"
         }
       ],
       "title": "🗃️ 项目"
@@ -139,14 +146,15 @@
             "owner": "cubxxw",
             "repo": "awesome-cs-course",
             "stars": 197
-          }
+          },
+          "first_seen": "2026-08-28T19:16:28.126Z"
         }
       ],
       "title": "✨ 参与贡献💕"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:06:33.935Z",
+    "last_updated": "2026-08-28T19:16:28.126Z",
     "original_repository_info": {
       "archived": false,
       "id": 444328164,
