@@ -10,12 +10,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📚awesome: Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C++、mysql、mongodb、golang、blockchain、markdown",
+            "homepage": "https://docker.nsddd.top",
             "id": 472343286,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-07-23T05:43:11Z",
+            "open_issues": 3,
             "owner": "cubxxw",
             "repo": "awesome-cs-course",
-            "stars": 197
+            "stars": 197,
+            "topics": [
+              "c",
+              "cpp",
+              "git",
+              "go",
+              "html",
+              "linux",
+              "markdown",
+              "mysql",
+              "nginx",
+              "nodejs",
+              "nosql",
+              "python",
+              "web",
+              "xml"
+            ]
           },
           "first_seen": "2026-08-28T19:16:28.126Z"
         },
@@ -26,12 +46,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📚awesome: Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C++、mysql、mongodb、golang、blockchain、markdown",
+            "homepage": "https://docker.nsddd.top",
             "id": 472343286,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-07-23T05:43:11Z",
+            "open_issues": 3,
             "owner": "cubxxw",
             "repo": "awesome-cs-course",
-            "stars": 197
+            "stars": 197,
+            "topics": [
+              "c",
+              "cpp",
+              "git",
+              "go",
+              "html",
+              "linux",
+              "markdown",
+              "mysql",
+              "nginx",
+              "nodejs",
+              "nosql",
+              "python",
+              "web",
+              "xml"
+            ]
           },
           "first_seen": "2026-08-28T19:16:28.126Z"
         },
@@ -42,12 +82,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The basic operating system notes, the Linux Notes, and the Linux kernel Learning notes, os notes, and other project notes....... Uploading, please give ⭐~   ",
+            "homepage": null,
             "id": 496967419,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-07-23T05:39:28Z",
+            "open_issues": 2,
             "owner": "cubxxw",
             "repo": "os",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "cs",
+              "docker",
+              "linux",
+              "markdown",
+              "os"
+            ]
           },
           "first_seen": "2026-08-28T19:16:28.126Z"
         },
@@ -58,12 +109,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚸 数据结构和算法~",
+            "homepage": "https://leetcode.com/smile_china/",
             "id": 445797858,
             "language": "Go",
+            "license": null,
             "last_commit": "2026-07-23T05:39:32Z",
+            "open_issues": 0,
             "owner": "cubxxw",
             "repo": "LeetCode",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "leetcode",
+              "leetcode-cpp",
+              "leetcode-java",
+              "shujujiegou",
+              "suanfa"
+            ]
           },
           "first_seen": "2026-08-28T19:16:28.126Z"
         }
@@ -80,12 +142,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📚awesome: Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C++、mysql、mongodb、golang、blockchain、markdown",
+            "homepage": "https://docker.nsddd.top",
             "id": 472343286,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-07-23T05:43:11Z",
+            "open_issues": 3,
             "owner": "cubxxw",
             "repo": "awesome-cs-course",
-            "stars": 197
+            "stars": 197,
+            "topics": [
+              "c",
+              "cpp",
+              "git",
+              "go",
+              "html",
+              "linux",
+              "markdown",
+              "mysql",
+              "nginx",
+              "nodejs",
+              "nosql",
+              "python",
+              "web",
+              "xml"
+            ]
           },
           "first_seen": "2026-08-28T19:16:28.126Z"
         },
@@ -96,12 +178,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📚awesome: Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C++、mysql、mongodb、golang、blockchain、markdown",
+            "homepage": "https://docker.nsddd.top",
             "id": 472343286,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-07-23T05:43:11Z",
+            "open_issues": 3,
             "owner": "cubxxw",
             "repo": "awesome-cs-course",
-            "stars": 197
+            "stars": 197,
+            "topics": [
+              "c",
+              "cpp",
+              "git",
+              "go",
+              "html",
+              "linux",
+              "markdown",
+              "mysql",
+              "nginx",
+              "nodejs",
+              "nosql",
+              "python",
+              "web",
+              "xml"
+            ]
           },
           "first_seen": "2026-08-28T19:16:28.126Z"
         }
@@ -118,12 +220,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build, Share and Run Both Your Kubernetes Cluster and Distributed Applications  (Project under CNCF)",
+            "homepage": "http://sealer.cool",
             "id": 362675427,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-03T08:29:24Z",
+            "open_issues": 228,
             "owner": "sealerio",
             "repo": "sealer",
-            "stars": 2095
+            "stars": 2095,
+            "topics": [
+              "cloud-native",
+              "clusterimage",
+              "delivery-service",
+              "distributed-systems",
+              "docker",
+              "golang",
+              "installer",
+              "isv",
+              "k8s",
+              "kubernetes",
+              "kubernetes-deployment",
+              "operations",
+              "package",
+              "registry"
+            ]
           },
           "first_seen": "2026-08-28T19:16:28.126Z"
         }
@@ -140,12 +262,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📚awesome: Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C++、mysql、mongodb、golang、blockchain、markdown",
+            "homepage": "https://docker.nsddd.top",
             "id": 472343286,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-07-23T05:43:11Z",
+            "open_issues": 3,
             "owner": "cubxxw",
             "repo": "awesome-cs-course",
-            "stars": 197
+            "stars": 197,
+            "topics": [
+              "c",
+              "cpp",
+              "git",
+              "go",
+              "html",
+              "linux",
+              "markdown",
+              "mysql",
+              "nginx",
+              "nodejs",
+              "nosql",
+              "python",
+              "web",
+              "xml"
+            ]
           },
           "first_seen": "2026-08-28T19:16:28.126Z"
         }
@@ -154,15 +296,35 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:16:28.126Z",
+    "last_updated": "2026-08-29T04:33:32.330Z",
     "original_repository_info": {
       "archived": false,
+      "description": "📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡......",
+      "homepage": "http://go.nsddd.top",
       "id": 444328164,
       "language": "Solidity",
+      "license": "BSL-1.0",
       "last_commit": "2026-07-23T05:40:34Z",
+      "open_issues": 6,
       "owner": "cubxxw",
       "repo": "awesome-cs-cloudnative-blockchain",
-      "stars": 1370
+      "stars": 1370,
+      "topics": [
+        "awesome",
+        "blockchain",
+        "chatgpt",
+        "cloudnative",
+        "docker",
+        "fabric",
+        "git",
+        "go",
+        "k8s",
+        "kubernetes",
+        "linux",
+        "mysql",
+        "sora",
+        "web"
+      ]
     },
     "original_repository_sha": "0e8b172cfd40732bf4dd805d32467754ddd31f55",
     "enhanced_repository": "enhansome/enhansome-cs-cloudnative-blockchain",
