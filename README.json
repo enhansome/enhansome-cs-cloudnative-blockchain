@@ -296,7 +296,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T12:28:51.750Z",
+    "last_updated": "2026-09-16T12:26:23.581Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡......",
@@ -305,7 +305,7 @@
       "language": "Solidity",
       "license": "BSL-1.0",
       "last_commit": "2026-07-23T05:40:34Z",
-      "open_issues": 6,
+      "open_issues": 7,
       "owner": "cubxxw",
       "repo": "awesome-cs-cloudnative-blockchain",
       "stars": 1374,
