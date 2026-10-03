@@ -42,7 +42,7 @@
         {
           "node_type": "item",
           "title": "Java全册☕",
-          "description": null,
+          "description": "cubxxw/awesome-cs-course",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -78,7 +78,7 @@
         {
           "node_type": "item",
           "title": "操作系统 — OS🔥",
-          "description": null,
+          "description": "cubxxw/os",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -105,7 +105,7 @@
         {
           "node_type": "item",
           "title": "算法与数据结构（LeetCode刷题记录）",
-          "description": null,
+          "description": "cubxxw/LeetCode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -138,7 +138,7 @@
         {
           "node_type": "item",
           "title": "🖱️ linux从入门到精通🔥",
-          "description": null,
+          "description": "cubxxw/awesome-cs-course",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -174,7 +174,7 @@
         {
           "node_type": "item",
           "title": "🖱️ Git—必备神器🔥",
-          "description": null,
+          "description": "cubxxw/awesome-cs-course",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -258,7 +258,7 @@
         {
           "node_type": "item",
           "title": "你需要学会使用markdown🖱️",
-          "description": null,
+          "description": "cubxxw/awesome-cs-course",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -296,7 +296,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T13:36:44.169Z",
+    "last_updated": "2026-10-03T04:42:05.674Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡......",
