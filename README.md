@@ -59,7 +59,7 @@
 
 📄 保存为 PDF 方式：使用 Chrome 浏览器打开 <a href="https://go.cubxxw.com">📚 DocCub 文档</a> 页面，缩起左侧目录-右键 - 打印 - 选择目标打印机是另存为PDF - 保存  —— [🖨️以Go语言第一节打印效果预览.pdf](./images/copy.pdf)）
 
-🙏 仓库内容如有错误或改进欢迎 [issue](https://github.com/cubxxw/cs-awesome-Block_Chain/issues) ⭐ 1,378 | 🐛 1 | 🌐 Solidity | 📅 2026-10-07 或 pr，[🧷参与贡献](https://cubxxw.com/archives/contributors)，建议或讨论可在 [#10](https://github.com/cubxxw/cs-awesome-Block_Chain/issues/10) ⭐ 1,378 | 🐛 1 | 🌐 Solidity | 📅 2026-10-07 提出。由于本人水平有限，仓库中的知识点有来自本人原创、读书笔记、书籍、博文等，非原创均已标明出处，如有遗漏，请 [issue](https://github.com/cubxxw/cs-awesome-Block_Chain/issues/new/choose) ⭐ 1,378 | 🐛 1 | 🌐 Solidity | 📅 2026-10-07 提出。本仓库遵循 [CC BY-NC-SA 4.0（署名 - 非商业性使用 - 相同方式共享）](https://github.com/huihut/interview/blob/master/LICENSE) ⭐ 38,252 | 🐛 2 | 🌐 C++ | 📅 2026-09-17 协议，转载请注明出处，不得用于商业目的。
+🙏 仓库内容如有错误或改进欢迎 [issue](https://github.com/cubxxw/cs-awesome-Block_Chain/issues) ⭐ 1,378 | 🐛 1 | 🌐 Solidity | 📅 2026-10-23 或 pr，[🧷参与贡献](https://cubxxw.com/archives/contributors)，建议或讨论可在 [#10](https://github.com/cubxxw/cs-awesome-Block_Chain/issues/10) ⭐ 1,378 | 🐛 1 | 🌐 Solidity | 📅 2026-10-23 提出。由于本人水平有限，仓库中的知识点有来自本人原创、读书笔记、书籍、博文等，非原创均已标明出处，如有遗漏，请 [issue](https://github.com/cubxxw/cs-awesome-Block_Chain/issues/new/choose) ⭐ 1,378 | 🐛 1 | 🌐 Solidity | 📅 2026-10-23 提出。本仓库遵循 [CC BY-NC-SA 4.0（署名 - 非商业性使用 - 相同方式共享）](https://github.com/huihut/interview/blob/master/LICENSE) ⭐ 38,253 | 🐛 2 | 🌐 C++ | 📅 2026-09-17 协议，转载请注明出处，不得用于商业目的。
 
 </details>
 
@@ -80,7 +80,7 @@
 
 #### 博客专栏
 
-博客上面发表的文章具有独立性，是我参与开源项目以来，所见所得所学，希望这种模式可以成功并且得以模仿。[👀 我的博客](https://cubxxw.com/) 记录着很多优质的内容值得一看，如果希望订阅 SSR ➡️[点这里](\[https://cubxxw.com/rss.xml]\(https://cubxxw.com/posts/index.xml\))
+博客上面发表的文章具有独立性，是我参与开源项目以来，所见所得所学，希望这种模式可以成功并且得以模仿。[👀 我的博客](https://cubxxw.com/) 记录着很多优质的内容值得一看，如果希望订阅 RSS ➡️[点这里](https://cubxxw.com/index.xml)
 
 [<img align="left" alt="shenxianpeng | ZhiHu" width="22px" src="https://www.svgrepo.com/show/305628/zhihu.svg" />][zhihu]
 
@@ -209,7 +209,7 @@ graph LR
 
 * 🔱[go语言官方编程指南](https://golang.org/#)
 
-* 🚧[Go语言路线和资源征集(update 2023)](go-advancend/go_route.md)
+* 🚧[Go语言路线和资源征集(update 2023)](awesome-golang/go-advancend/go_route.md)
 
 #### 🔖核心
 
@@ -228,19 +228,19 @@ graph LR
 
 🥇 命名规范以及项目目录结构📇的设定对于一名合格的工程师来说也是非常重要的。下面是作为一名合格的开发者🤵，必须要会的基本素养。
 
-* [🖱️Go语言包管理工具 — mod包](Gomd_super/mod.md)
+* [🖱️Go语言包管理工具 — mod包](awesome-golang/Gomd_super/mod.md)
 
-* [🖱️Go-air实现热加载编译](Gomd_super/go-air.md)
+* [🖱️Go-air实现热加载编译](awesome-golang/Gomd_super/go-air.md)
 
-* [🖱️命名规则和代码规范](Gomd_super/name.md)
+* [🖱️命名规则和代码规范](awesome-golang/Gomd_super/name.md)
 
-* 🖱️[Go语言目录结构](Gomd_super/catalogue.md)
+* 🖱️[Go语言目录结构](awesome-golang/Gomd_super/catalogue.md)
 
-* 🖱️[Go文件以及编码处理](Gomd_super/go_file.md)
+* 🖱️[Go文件以及编码处理](awesome-golang/Gomd_super/go_file.md)
 
-* 🖱️[正则表达式](Gomd_super/zhenze.md)
+* 🖱️[正则表达式](awesome-golang/Gomd_super/zhenze.md)
 
-* 🖱️[位运算技巧](Gomd_super/bitwise.md)
+* 🖱️[位运算技巧](awesome-golang/Gomd_super/bitwise.md)
 
 > Go语言一些其他的网站和博客，值得一看
 >
@@ -260,9 +260,9 @@ graph LR
 
 ## 📚 CS系列
 
-CS 系列选自[🎉awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) ⭐ 198 | 🐛 2 | 🌐 Java | 📅 2026-10-07，内容涵盖 计算机操作系统、csapp系列、算法和数据结构、计算机网络、`linux`、`java`、`python`、`C/C++`、`vuepress`、`gitbook`、`nodejs`、`vuejs`、`halo`、`redis`、`hugo`、`nginx`、`nosql`、`mysql`、`JavaScript`、`git`、`markdown`、`web`前端等笔记，更多移步到[AWESOME系列CS仓库地址](https://github.com/cubxxw/awesome-cs-course/) ⭐ 198 | 🐛 2 | 🌐 Java | 📅 2026-10-07
+CS 系列选自[🎉awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) ⭐ 198 | 🐛 1 | 🌐 Java | 📅 2026-10-23，内容涵盖 计算机操作系统、csapp系列、算法和数据结构、计算机网络、`linux`、`java`、`python`、`C/C++`、`vuepress`、`gitbook`、`nodejs`、`vuejs`、`halo`、`redis`、`hugo`、`nginx`、`nosql`、`mysql`、`JavaScript`、`git`、`markdown`、`web`前端等笔记，更多移步到[AWESOME系列CS仓库地址](https://github.com/cubxxw/awesome-cs-course/) ⭐ 198 | 🐛 1 | 🌐 Java | 📅 2026-10-23
 
-* [x] [Java全册☕](https://github.com/cubxxw/awesome-cs-course/blob/master/java/README.md) ⭐ 198 | 🐛 2 | 🌐 Java | 📅 2026-10-07
+* [x] [Java全册☕](https://github.com/cubxxw/awesome-cs-course/blob/master/java/README.md) ⭐ 198 | 🐛 1 | 🌐 Java | 📅 2026-10-23
 
 * [x] [操作系统 — OS🔥](https://github.com/cubxxw/os) ⭐ 13 | 🐛 2 | 🌐 HTML | 📅 2026-07-23
 
@@ -280,15 +280,15 @@ CS 系列选自[🎉awesome-cs-course](https://github.com/cubxxw/awesome-cs-cour
 
 ## 📘 开发必备技术
 
-🧋参与普通程序的开发或者是区块链⛓️开发必须[熟悉Linux指令](https://github.com/cubxxw/awesome-cs-course/blob/master/linux/README.md) ⭐ 198 | 🐛 2 | 🌐 Java | 📅 2026-10-07，熟悉[git团队开发](https://github.com/cubxxw/awesome-cs-course/blob/master/Git/README.md) ⭐ 198 | 🐛 2 | 🌐 Java | 📅 2026-10-07，基于[docker容器](docker/README.md)会让我门快速的搭建工具和环境，更好的迁移开发环境和迁移链码（blockcode)，[密码学和信息安全](cryptology/README.md)不仅仅是区块链工程师必须要学习的技术，更是IT从业者未来不可或缺的技术。我们都渴望系统能更加的安全不是吗📵。
+🧋参与普通程序的开发或者是区块链⛓️开发必须[熟悉Linux指令](https://github.com/cubxxw/awesome-cs-course/blob/master/linux/README.md) ⭐ 198 | 🐛 1 | 🌐 Java | 📅 2026-10-23，熟悉[git团队开发](https://github.com/cubxxw/awesome-cs-course/blob/master/Git/README.md) ⭐ 198 | 🐛 1 | 🌐 Java | 📅 2026-10-23，基于[docker容器](awesome-docker-kubernetes/README.md)会让我门快速的搭建工具和环境，更好的迁移开发环境和迁移链码（blockcode)，[密码学和信息安全](cryptology/README.md)不仅仅是区块链工程师必须要学习的技术，更是IT从业者未来不可或缺的技术。我们都渴望系统能更加的安全不是吗📵。
 
 ⚠️ `Docker` 、`K8s`、`sealos`、`云原生` 已全部迁移至 ➡️ [CubDoc🧷](https://docker.cubxxw.com/)
 
-* [x] 🖱️ [linux从入门到精通🔥](https://github.com/cubxxw/awesome-cs-course/blob/master/linux/README.md) ⭐ 198 | 🐛 2 | 🌐 Java | 📅 2026-10-07
+* [x] 🖱️ [linux从入门到精通🔥](https://github.com/cubxxw/awesome-cs-course/blob/master/linux/README.md) ⭐ 198 | 🐛 1 | 🌐 Java | 📅 2026-10-23
 
-* [x] 🖱️ [Git—必备神器🔥](https://github.com/cubxxw/awesome-cs-course/blob/master/Git/README.md) ⭐ 198 | 🐛 2 | 🌐 Java | 📅 2026-10-07
+* [x] 🖱️ [Git—必备神器🔥](https://github.com/cubxxw/awesome-cs-course/blob/master/Git/README.md) ⭐ 198 | 🐛 1 | 🌐 Java | 📅 2026-10-23
 
-* [x] [🖱️ Docker/k8s/云原生🔥](docker/README.md)
+* [x] [🖱️ Docker/k8s/云原生🔥](awesome-docker-kubernetes/README.md)
 
 * [x] [🖱️ 密码学和信息安全🔥](cryptology/README.md)
 
@@ -302,11 +302,11 @@ CS 系列选自[🎉awesome-cs-course](https://github.com/cubxxw/awesome-cs-cour
 
 > 🔥 我深以为然：区块链或许不能让这个世界分布化，但是它可以让世界不再有中介。不在会因为你所玩游戏崩溃你就失去了这个游戏\~
 
-从事区块链，需要哪些基础知识，看下[区块链开发需要什么](C_Universal_Brockchain\chain.md) ，你需要一份[区块链工程师路线](./blockchain/route.md)，或许你可以在一些区块链项目中找到灵感[🔗区块链公益项目（NFT+私链/联盟链/私链）](blockchain/区块链公益项目/README.md)。区块链的[共识算法](blockchain/README.md)是怎么实现的呢?
+从事区块链，需要哪些基础知识，看下[区块链开发需要什么](C_Universal_Brockchain/chain.md) ，你需要一份[区块链工程师路线](./blockchain/route.md)，或许你可以在一些区块链项目中找到灵感[🔗区块链公益项目（NFT+私链/联盟链/私链）](blockchain/区块链公益项目/README.md)。区块链的[共识算法](blockchain/README.md)是怎么实现的呢?
 
 * [x] [🔗区块链工程师路线](./blockchain/route.md)
 
-* [x] [🔗区块链开发需要什么❓](C_Universal_Brockchain\chain.md)
+* [x] [🔗区块链开发需要什么❓](C_Universal_Brockchain/chain.md)
 
 * [x] [🔗区块链公益项目（NFT+私链/联盟链/私链）](blockchain/区块链公益项目/README.md)
 
@@ -325,7 +325,7 @@ CS 系列选自[🎉awesome-cs-course](https://github.com/cubxxw/awesome-cs-cour
 > 以太坊和比特币一样，底层框架都是区块链协议，区块链本质上是一个应用了密码学技术的分布式数据库系统。建议看一下 **[以太坊白皮书](https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6)（需要有golang编程基础）**
 >
 > <div align="center">
-> <a href="eth/TOC.md">
+> <a href="eth/README.md">
 > 	<img src="https://sm.cubxxw.com//typora/image-20220630192622583.png?mail:3293172751@qq.com" alt="区块链的学习" style="zoom: 20%;" />
 > </a></div>
 
@@ -348,7 +348,7 @@ CS 系列选自[🎉awesome-cs-course](https://github.com/cubxxw/awesome-cs-cour
 
 为了方便管理，我将所有的知识仓库以及贡献开源项目所克隆的仓库放在了我的个人账户 [cubxxw](https://github.com) 中，将所有的项目和规范有关的仓库都放在了自己创建的社区 [kubecub](https://github.com/kubecub) 中方便所有人加入并且学习，并且将所有自动化相关的账户都使用了 [robot(kubbot)](https://github.com/kubbot) 机器人来进行自动化和控制。
 
-我参与过很多顶级开源社区，包括 [sealer](https://github.com/sealerio/sealer) ⭐ 2,091 | 🐛 225 | 🌐 Go | 📅 2025-06-03、[sealos](https://github.com/labring/sealos) ⭐ 18,370 | 🐛 51 | 🌐 Go | 📅 2026-10-22、[Kubernetes](https://github.com/kubernetes/kubernetes/) ⭐ 128,505 | 🐛 3,217 | 🌐 Go | 📅 2026-10-22、[OpenIM](https://github.com/OpenIMSDK)、[K8sgpt](https://github.com/k8sgpt-ai/k8sgpt) ⭐ 8,271 | 🐛 85 | 🌐 Go | 📅 2026-10-22、[Horizon](https://github.com/horizoncd/horizon/) ⭐ 258 | 🐛 4 | 🌐 Go | 📅 2026-06-17 以及 我自己打造的 开源社区 [Kubecub](https://github.com/kubecub)。kubecub 中有很多我沉淀下来的开源规范以及代码、项目规范都总结在各个仓库中。并且，Kubecub 和 OpenIM 使用了我创造的 [🤖 robot(kubbot)](https://github.com/kubbot) 来对 PR 和 Issue 高度自动化。kubecub 宗旨是面向所有的开发者进行学习和创造的，你可以在里面利用我们的自动化工具和模板打造自己的开源项目，并且让更多的人来帮助你协同、review 代码。
+我参与过很多顶级开源社区，包括 [sealer](https://github.com/sealerio/sealer) ⭐ 2,091 | 🐛 225 | 🌐 Go | 📅 2025-06-03、[sealos](https://github.com/labring/sealos) ⭐ 18,372 | 🐛 50 | 🌐 Go | 📅 2026-10-23、[Kubernetes](https://github.com/kubernetes/kubernetes/) ⭐ 128,572 | 🐛 3,215 | 🌐 Go | 📅 2026-10-23、[OpenIM](https://github.com/OpenIMSDK)、[K8sgpt](https://github.com/k8sgpt-ai/k8sgpt) ⭐ 8,273 | 🐛 85 | 🌐 Go | 📅 2026-10-23、[Horizon](https://github.com/horizoncd/horizon/) ⭐ 258 | 🐛 4 | 🌐 Go | 📅 2026-06-17 以及 我自己打造的 开源社区 [Kubecub](https://github.com/kubecub)。kubecub 中有很多我沉淀下来的开源规范以及代码、项目规范都总结在各个仓库中。并且，Kubecub 和 OpenIM 使用了我创造的 [🤖 robot(kubbot)](https://github.com/kubbot) 来对 PR 和 Issue 高度自动化。kubecub 宗旨是面向所有的开发者进行学习和创造的，你可以在里面利用我们的自动化工具和模板打造自己的开源项目，并且让更多的人来帮助你协同、review 代码。
 
 在里面积累了很多的开源经验，并且记录在我的 [博客](https://cubxxw.com) 中，其中，很多的提案和在贡献的成长笔记，所学习到的知识都在 [CloudNative](https://docker.cubxxw.com/Cloud-Native/) 这篇知识库中有所记录。
 
@@ -371,7 +371,7 @@ CS 系列选自[🎉awesome-cs-course](https://github.com/cubxxw/awesome-cs-cour
 
 **要求：**
 
-* [你需要学会使用markdown🖱️](https://github.com/cubxxw/awesome-cs-course/blob/master/markdown/README.md) ⭐ 198 | 🐛 2 | 🌐 Java | 📅 2026-10-07
+* [你需要学会使用markdown🖱️](https://github.com/cubxxw/awesome-cs-course/blob/master/markdown/README.md) ⭐ 198 | 🐛 1 | 🌐 Java | 📅 2026-10-23
 * [符合Google代码规范](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/)
 
 <details><summary><b>🫡 克隆此仓库到本地</b></summary>
@@ -384,7 +384,7 @@ CS 系列选自[🎉awesome-cs-course](https://github.com/cubxxw/awesome-cs-cour
 
 <br>
 
-<font size = 2>🎯 如果你也想对本项目做出贡献，那么你可以先把该项目进行 [fork](https://github.com/cubxxw/cs-awesome-Block_Chain/fork) ⭐ 1,378 | 🐛 1 | 🌐 Solidity | 📅 2026-10-07或者 `git clone` 到本地（推荐先用 [fock](https://github.com/cubxxw/cs-awesome-Block_Chain/fork) ⭐ 1,378 | 🐛 1 | 🌐 Solidity | 📅 2026-10-07到自己仓库，然后再clone到本地，对本地进行操作，最后从自己仓库贡献，然后自己建立一个分支 `your-branch`，然后上传资料到 对应目录 下，图片信息可以上传到` /images`，然后更新 `README`。 </font>
+<font size = 2>🎯 如果你也想对本项目做出贡献，那么你可以先把该项目进行 [fork](https://github.com/cubxxw/cs-awesome-Block_Chain/fork) ⭐ 1,378 | 🐛 1 | 🌐 Solidity | 📅 2026-10-23或者 `git clone` 到本地（推荐先用 [fock](https://github.com/cubxxw/cs-awesome-Block_Chain/fork) ⭐ 1,378 | 🐛 1 | 🌐 Solidity | 📅 2026-10-23到自己仓库，然后再clone到本地，对本地进行操作，最后从自己仓库贡献，然后自己建立一个分支 `your-branch`，然后上传资料到 对应目录 下，图片信息可以上传到` /images`，然后更新 `README`。 </font>
 
 ## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Recent activity [![Time period](https://images.repography.com/26892425/3293172751/Block_Chain/recent-activity/04864df8cf8f1f104b2b9453e0b47498_badge.svg)](https://repography.com)
 
@@ -410,4 +410,4 @@ CS 系列选自[🎉awesome-cs-course](https://github.com/cubxxw/awesome-cs-cour
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
