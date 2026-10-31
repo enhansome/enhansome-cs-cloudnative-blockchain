@@ -59,7 +59,7 @@
 
 📄 保存为 PDF 方式：使用 Chrome 浏览器打开 <a href="https://go.cubxxw.com">📚 DocCub 文档</a> 页面，缩起左侧目录-右键 - 打印 - 选择目标打印机是另存为PDF - 保存  —— [🖨️以Go语言第一节打印效果预览.pdf](./images/copy.pdf)）
 
-🙏 仓库内容如有错误或改进欢迎 [issue](https://github.com/cubxxw/cs-awesome-Block_Chain/issues) ⭐ 1,378 | 🐛 0 | 🌐 Solidity | 📅 2026-10-30 或 pr，[🧷参与贡献](https://cubxxw.com/archives/contributors)，建议或讨论可在 [#10](https://github.com/cubxxw/cs-awesome-Block_Chain/issues/10) ⭐ 1,378 | 🐛 0 | 🌐 Solidity | 📅 2026-10-30 提出。由于本人水平有限，仓库中的知识点有来自本人原创、读书笔记、书籍、博文等，非原创均已标明出处，如有遗漏，请 [issue](https://github.com/cubxxw/cs-awesome-Block_Chain/issues/new/choose) ⭐ 1,378 | 🐛 0 | 🌐 Solidity | 📅 2026-10-30 提出。本仓库遵循 [CC BY-NC-SA 4.0（署名 - 非商业性使用 - 相同方式共享）](https://github.com/huihut/interview/blob/master/LICENSE) ⭐ 38,269 | 🐛 3 | 🌐 C++ | 📅 2026-09-17 协议，转载请注明出处，不得用于商业目的。
+🙏 仓库内容如有错误或改进欢迎 [issue](https://github.com/cubxxw/cs-awesome-Block_Chain/issues) ⭐ 1,378 | 🐛 0 | 🌐 HTML | 📅 2026-10-31 或 pr，[🧷参与贡献](https://cubxxw.com/archives/contributors)，建议或讨论可在 [#10](https://github.com/cubxxw/cs-awesome-Block_Chain/issues/10) ⭐ 1,378 | 🐛 0 | 🌐 HTML | 📅 2026-10-31 提出。由于本人水平有限，仓库中的知识点有来自本人原创、读书笔记、书籍、博文等，非原创均已标明出处，如有遗漏，请 [issue](https://github.com/cubxxw/cs-awesome-Block_Chain/issues/new/choose) ⭐ 1,378 | 🐛 0 | 🌐 HTML | 📅 2026-10-31 提出。本仓库遵循 [CC BY-NC-SA 4.0（署名 - 非商业性使用 - 相同方式共享）](https://github.com/huihut/interview/blob/master/LICENSE) ⭐ 38,271 | 🐛 3 | 🌐 C++ | 📅 2026-09-17 协议，转载请注明出处，不得用于商业目的。
 
 </details>
 
@@ -94,61 +94,106 @@
 
 <!-- My-Blog:START -->
 
-* [2025 年度回顾](https://cubxxw.com/zh/posts/2025-annual-review/)
-* [Kubernetes 资源与学习路径总结](https://cubxxw.com/zh/posts/kubernetes-learning/)
-* [利用 LangChain 框架的语言模型应用：开发者指南](https://cubxxw.com/zh/posts/harnessing-language-model-applications-with-langchain-a-developer-is-guide/)
-* [探索大型语言模型（llm）：人工智能在理解与生成人类语言方面的先锋](https://cubxxw.com/zh/posts/exploring-large-language-models-llms-pioneering-ai-understanding-generation-human-language/)
-* [塑造职业道路：开源简历生成器与专业简历技巧指南](https://cubxxw.com/zh/posts/crafting-your-career-pathway-a-guide-to-open-source-resume-builders-and-expert-resume-tips/)
-* [这是一篇我职业生涯总结的 OpenIM 故障排查指南](https://cubxxw.com/zh/posts/troubleshooting-guide-for-openim/)
-* [探索开源以及开源商业模式研究](https://cubxxw.com/zh/posts/navigating-the-open-source-landscape/)
-* [Sora Ease 指南：开发者掌握 Sora AI 的全面指南](https://cubxxw.com/zh/posts/sora-ease-guide-mastering-sora-ai-for-developers/)
-* [2023年，我的旅行起点 - 2023年的我漫步在世界边缘](https://cubxxw.com/zh/posts/in-2023-i-was-wandering-at-the-edge-of-the-world/)
-* [Sora 技术讨论以及普通人和开发者如何利用 Sora 改变世界](https://cubxxw.com/zh/posts/exploring-sora-technology-for-enthusiasts-and-developers/)
-* [双剑合璧：结合GitHub与Google Workspace的项目管理艺术](https://cubxxw.com/zh/posts/combining-github-and-google-workspace-for-project-management/)
-* [脑友好型英语学习策略：工具与技巧解析](https://cubxxw.com/zh/posts/brain-friendly-english-learning-strategies-tools-and-techniques-explained/)
-* [心流状态的魔力：专注与幸福感提升指南](https://cubxxw.com/zh/posts/flow-state/)
-* [GTD与四象限法则实践](https://cubxxw.com/zh/posts/gtd-and-the-four-quadrant-rule-practice/)
-* [Go 源码里的这些 go: 指令 && go 自动化工具](https://cubxxw.com/zh/posts/directives-and-the-use-of-automation-tools/)
-* [Go 语言中的并发类型检查与跨平台开发](https://cubxxw.com/zh/posts/concurrent-type-checking-and-cross-platform-development-in-go/)
-* [向量数据库的学习](https://cubxxw.com/zh/posts/vector-database-learning/)
-* [OpenIM：构建高效的版本控制和测试工作流程](https://cubxxw.com/zh/posts/openim-building-an-efficient-version-control-and-testing-workflow/)
-* [AI元年: 2024年的新兴挑战与趋势](https://cubxxw.com/zh/posts/emerging-challenges-and-trends-in-2024/)
-* [回顾与前瞻：我的2023年度总结报告](https://cubxxw.com/zh/posts/2023-annual-summary-reflections-and-aspirations/)
-* [对开源商业化的思考 & 全球流量大会（GTC）学习以及总结](https://cubxxw.com/zh/posts/openim-open-source-business-journey/)
-* [GitOps 实践理论：Kubernetes 部署策略深入解析](https://cubxxw.com/zh/posts/gitops-practice-theory-part/)
-* [管理后台和监控的部署与设计](https://cubxxw.com/zh/posts/deployment-and-design-of-management-backend-and-monitoring/)
-* [Hugo 的高级教程](https://cubxxw.com/zh/posts/hugo-advanced-tutorial/)
-* [Kubernetes Kustomize 学习指南](https://cubxxw.com/zh/posts/kubernetes-for-kustomize-learning/)
-* [设计 OpenIM 使用 Harbor 构建企业镜像仓库](https://cubxxw.com/zh/posts/openim-use-harbor-build-enterprise-mirror-repositories/)
-* [自动化测试的学习(一)](https://cubxxw.com/zh/posts/learn-about-automated-testing/)
-* [Kubernetes 控制平面 - Kubectl 详细讲解](https://cubxxw.com/zh/posts/deep-dive-into-the-components-of-kubernetes-kubectl/)
-* [Kubernetes 控制平面 - 调度器](https://cubxxw.com/zh/posts/deep-dive-into-the-components-of-kubernetes-scheduler/)
-* [Kubernetes 的 CNI，CRI，CSI 详解](https://cubxxw.com/zh/posts/deep-dive-into-the-components-of-kubernetes-cni-csi-cri/)
-* [深入了解Kubernetes Kube apisserver的组件](https://cubxxw.com/zh/posts/deep-dive-into-the-components-of-kubernetes-kube-apiserver/)
-* [深入了解Kubernetes等组件之ETCD](https://cubxxw.com/zh/posts/deep-dive-into-the-components-of-kubernetes-etcd/)
-* [通过配置文件简化 Kubernetes 部署的参数端口配置](https://cubxxw.com/zh/posts/openim-cluster-deployment-parameter-passing-policy/)
-* [OpenIM 的集群化设计 | Kubernetes 部署 | 方案讨论 | 会议总结](https://cubxxw.com/zh/posts/openim-cluster-deployment-scheme-of/)
-* [在开源社区中学会如何提问](https://cubxxw.com/zh/posts/the-art-of-asking-questions-in-open-source-communities/)
-* [自动化的高级追求： Prow 是什么？Kubernetes 为什么需要它](https://cubxxw.com/zh/posts/prow-ecological-learning/)
-* [一份完整的开源贡献指南（提供给第一次踏入开源伙伴秘籍）](https://cubxxw.com/zh/posts/open-source-contribution-guidelines/)
-* [我的实践总结：开源社区的规范设计思路](https://cubxxw.com/zh/posts/advanced-githook-design/)
-* [GoReleaser：自动化你的软件发布](https://cubxxw.com/zh/posts/go-release-tools/)
-* [我的第一个博客](https://cubxxw.com/zh/posts/my-first-blog/)
-* [关于我的 Hugo 博客 (教程)](https://cubxxw.com/zh/posts/my-hugo/)
-* [速读开源项目 Sealos 的源码](https://cubxxw.com/zh/posts/read-openim-project-sealos-openim-source-code/)
-* [我如何设计 DevOps 下的 OpenIM 标准开发流 & 敏捷体系 & 精益模式](https://cubxxw.com/zh/posts/openim-devops-design/)
-* [我是如何优雅设计 OpenIM 多进程管理策略的](https://cubxxw.com/zh/posts/openim-multi-process-management/)
-* [如何安装和使用自主人工智能工具Auto-GPT](https://cubxxw.com/zh/posts/use-auto-gpt/)
-* [Go 调试测试以及调试工具 dlv 学习](https://cubxxw.com/zh/posts/use-go-tools-dlv/)
-* [Github Actions 的高级使用技巧](https://cubxxw.com/zh/posts/github-actions-advanced-techniques/)
-* [OpenIM离线部署设计](https://cubxxw.com/zh/posts/openim-offline-deployment-design/)
-* [开源的阶段性成长指南](https://cubxxw.com/zh/posts/stage-growth-of-open-source/)
-* [从理论到实践的项目管理打通](https://cubxxw.com/zh/posts/project-management-from-theory-to-practice/)
-* [Openkf 多架构镜像的构建策略设计](https://cubxxw.com/zh/posts/openkf-multi-architecture-image/)
-* [在AI时代 - 精益团队的企业文化和远程工作指南 v2.0](https://cubxxw.com/zh/posts/openim-remote-work-culture/)
-* [跨平台以及多架构编译设计](https://cubxxw.com/zh/posts/cross-platform-compilation/)
-* [Kubernetes一篇快速入门的文章](https://cubxxw.com/zh/posts/kubernetes-an-article-to-get-started-quickly/)
-* [参与我们的区块链学习平台项目](https://cubxxw.com/zh/posts/participating-in-this-project/)
+* [Tana 产品拆解：一条任务怎样从笔记走到会议中的工作](https://cubxxw.com/zh/ai-agent/posts/tana-from-notes-to-meeting-work/)
+* [Doneas 产品拆解：一周计划怎样变成每天的承诺](https://cubxxw.com/zh/ai-agent/posts/doneas-weekly-commitments/)
+* [Ambi 产品拆解：记住一件事之后，怎样把它做完](https://cubxxw.com/zh/ai-agent/posts/ambi-memory-to-work/)
+* [2026年10月思考笔记：日常与其他、AI 与 Agent 系统、工程与开源](https://cubxxw.com/zh/growth/posts/2026-10-thought-notes/)
+* [Nango 接入实战：让用户在聊天中添加自己的 MCP](https://cubxxw.com/zh/ai-agent/posts/nango-user-defined-mcp-integration/)
+* [Personal Agent 技术研究：OpenClaw 怎样把一次运行接到长期事务上](https://cubxxw.com/zh/ai-agent/posts/personal-agent-harness-openclaw/)
+* [Personal Agent 产品研究：Instinct 怎样让人愿意再次委托](https://cubxxw.com/zh/ai-agent/posts/personal-agent-product-delegation/)
+* [2026年9月思考笔记：AI 与 Agent 系统、日常与其他、工程与开源](https://cubxxw.com/zh/growth/posts/2026-09-thought-notes/)
+* [Opus 5.5 为什么更会做动画：从真实工程拆解视觉能力跃迁](https://cubxxw.com/zh/ai-agent/posts/opus-55-visual-capability/)
+* [一个人如何维护自己的界面：用 Figma、Figwright 与 AI 搭建设计系统](https://cubxxw.com/zh/engineering/posts/2026-09-26-figma-figwright-personal-design-system/)
+* [AI 从业者是如何利用 AI 学习英语的](https://cubxxw.com/zh/growth/posts/ai-english-learning/)
+* [用 AI 把文章做成可操作的解释：从 Web Components 到 MCP Apps](https://cubxxw.com/zh/ai-agent/posts/writing-explorable-articles-with-ai/)
+* [IMStage：用于测试与评测的合成对话](https://cubxxw.com/zh/projects/imstage/)
+* [2026年8月思考笔记：AI 与 Agent 系统、日常与其他、工程与开源](https://cubxxw.com/zh/growth/posts/2026-08-thought-notes/)
+* [AI 让我更聪明，也让我更晚碰到现实](https://cubxxw.com/zh/growth/posts/2026-08-15-ai-made-me-smarter-later-to-reality/)
+* [不会让恐惧替我做决定](https://cubxxw.com/zh/growth/posts/2026-08-10-fear-does-not-decide-for-me/)
+* [Agent 不是一种产品：十套系统如何重新分配控制权、状态、身份与副作用](https://cubxxw.com/zh/ai-agent/posts/agent-system-design-synthesis/)
+* [Conversation as Database：OpenHands 的无状态 Agent 与事件运行时](https://cubxxw.com/zh/ai-agent/posts/agent-system-design-openhands/)
+* [多 Agent 辩论真的增加了信息吗：TradingAgents 的组织图与相关性风险](https://cubxxw.com/zh/ai-agent/posts/agent-system-design-tradingagents/)
+* [Instructions as Code：OpenMontage 如何用工件契约编排视频生产](https://cubxxw.com/zh/ai-agent/posts/agent-system-design-openmontage/)
+* [拒绝成为 Agent：TaxHacker 为什么把 LLM 压缩成一个函数](https://cubxxw.com/zh/ai-agent/posts/agent-system-design-taxhacker/)
+* [OpenClaw 的常驻网关：连续性不是把所有消息塞进同一会话](https://cubxxw.com/zh/ai-agent/posts/agent-system-design-openclaw/)
+* [n8n 的确定性外骨骼：Queue、Worker 与副作用从不承诺 Exactly-Once](https://cubxxw.com/zh/ai-agent/posts/agent-system-design-n8n/)
+* [给 Agent 一台电脑之后：Manus 如何把回复变成交付物](https://cubxxw.com/zh/ai-agent/posts/agent-system-design-manus/)
+* [Codex 的协议化内核：第二个 Surface 不该复制第一个 Agent](https://cubxxw.com/zh/ai-agent/posts/agent-system-design-codex/)
+* [Pi 的减法：最小 Agent Kernel 保留什么，责任又去了哪里](https://cubxxw.com/zh/ai-agent/posts/agent-system-design-pi/)
+* [Claude Code 的扩展语法：一条仓库修改怎样逐级获得控制](https://cubxxw.com/zh/ai-agent/posts/agent-system-design-claude-code/)
+* [n8n 入门：给超级个体搭一条会被结果改写的增长流水线](https://cubxxw.com/zh/growth/posts/super-individual-growth-os-n8n/)
+* [历史不能只活在一个尺度里：与 Archer 的一场夜谈](https://cubxxw.com/zh/growth/posts/history-needs-more-than-one-scale/)
+* [Claude Tag 深度拆解：Slack 里的共享 AI，正在长成组织级 Agent 运行时](https://cubxxw.com/zh/ai-agent/posts/claude-tag-organizational-agent-runtime/)
+* [从 Agent Loop 到领域运行时：如何从零搭建一个可用的 Agent 系统](https://cubxxw.com/zh/ai-agent/posts/build-an-agent-system/)
+* [我不缺执行力，我缺一个有权否决我的战场](https://cubxxw.com/zh/growth/posts/2026-08-03-a-battlefield-that-can-say-no/)
+* [在泉州读弘一：看破之后，继续把人生当真](https://cubxxw.com/zh/growth/posts/2026-08-03-hongyi-quanzhou-game-of-life/)
+* [我知道什么是 Agent，却说不出它的定义](https://cubxxw.com/zh/ai-agent/posts/2026-08-02-ai-era-conceptual-mobility/)
+* [如果蒙田有一个 AI：我为什么把 DayPage 做成一场自我实验](https://cubxxw.com/zh/projects/daypage-ai-metacognition-experiment/)
+* [常识不是本质：AI 时代如何从需求、约束与稀缺性重构行业](https://cubxxw.com/zh/ai-agent/posts/common-sense-ai-industry-reconstruction/)
+* [2026年7月的一些思考笔记：工程、内容与现金流](https://cubxxw.com/zh/growth/posts/2026-07-thought-notes/)
+* [你选择的计分板，最后会选择你：激励怎样改写一个组织](https://cubxxw.com/zh/growth/posts/2026-07-31-incentives-colonize-founders/)
+* [自由的反面不是约束，是默认值替你活完一天](https://cubxxw.com/zh/growth/posts/2026-07-31-freedom-and-defaults/)
+* [第二大脑保存的，是一个人的决策函数](https://cubxxw.com/zh/growth/posts/2026-07-31-second-brain-as-survival-strategy/)
+* [当生成变得无限，真实经历开始升值](https://cubxxw.com/zh/growth/posts/2026-07-31-reality-becomes-scarce-after-ai/)
+* [风险偏好不是喜欢危险：真正让人敢下注的是什么](https://cubxxw.com/zh/growth/posts/2026-07-31-risk-is-not-danger/)
+* [观察者的代价：看得越明白，为什么反而越难进入生活](https://cubxxw.com/zh/growth/posts/2026-07-31-the-observer-cannot-enter-life/)
+* [创造者缺的不是掌声，是一个准确的见证者](https://cubxxw.com/zh/growth/posts/2026-07-31-creators-need-accurate-witnesses/)
+* [AI 时代，遗忘比记忆更难：一个活系统为什么必须会放下](https://cubxxw.com/zh/ai-agent/posts/2026-07-31-forgetting-is-an-ai-system-capability/)
+* [记录不是镜子，是剪刀：你用什么工具，最后就会成为什么样的人](https://cubxxw.com/zh/growth/posts/2026-07-31-recording-tools-shape-the-self/)
+* [环境是隐藏的作者：为什么换一座城，像换了一个自己](https://cubxxw.com/zh/growth/posts/2026-07-31-environment-is-the-hidden-author/)
+* [当远方不再改变你：探索失效以后，人生靠什么继续向前](https://cubxxw.com/zh/growth/posts/2026-07-31-when-exploration-stops-changing-you/)
+* [每条路都要收费](https://cubxxw.com/zh/growth/posts/2026-07-26-every-path-has-a-price/)
+* [AI 解决问题以后，问题会搬到哪里](https://cubxxw.com/zh/growth/posts/2026-07-26-bottlenecks-after-ai/)
+* [越快看到的数字，往往离结果越远](https://cubxxw.com/zh/growth/posts/2026-07-26-fast-feedback-slow-results/)
+* [行动不会自动带来真相](https://cubxxw.com/zh/growth/posts/2026-07-26-action-and-evidence/)
+* [聪明人的逃跑方式：把能力用在不该解决的问题上](https://cubxxw.com/zh/growth/posts/2026-07-26-competence-trap/)
+* [利润到底证明了什么](https://cubxxw.com/zh/growth/posts/2026-07-26-profit-and-value/)
+* [下一步做什么：一场关于赚钱、行动与理想的争论](https://cubxxw.com/zh/growth/posts/2026-07-26-what-to-do-next/)
+* [小熊人生游戏 — Play My Story](https://cubxxw.com/zh/about/quest/)
+* [Open Design 0.16.1：给 Coding Agent 一张可复用的设计工作台](https://cubxxw.com/zh/ai-agent/posts/open-design/)
+* [Claude Code 实战手册：从验证闭环到并行代理的 10 个配置](https://cubxxw.com/zh/ai-agent/posts/claude-code-boris-121-tips-playbook/)
+* [独立开发者的 Loop Engineering：验证器、状态与安全自动化](https://cubxxw.com/zh/ai-agent/posts/prompt-loop-engineering-practice/)
+* [你以为你是玩家，可「玩家」也是一个角色：重读游戏三昧](https://cubxxw.com/zh/growth/posts/2026-07-20-the-player-is-also-a-role/)
+* [独立创作者的 AI 视频剪辑流水线：拍摄、粗剪与多平台发布](https://cubxxw.com/zh/ai-agent/posts/solo-creator-video-pipeline/)
+* [当东西人人做得出来，「这是他做的」就成了信号](https://cubxxw.com/zh/ai-agent/posts/super-individual-stack-reputation/)
+* [独立开发者的分发策略：产品能被复制，读者关系不能](https://cubxxw.com/zh/ai-agent/posts/super-individual-stack-distribution/)
+* [AI 提需求不要钱，这才是最危险的地方](https://cubxxw.com/zh/ai-agent/posts/super-individual-stack-judgment/)
+* [夜里跑十个 agent，早上收十个 PR，然后我卡住了](https://cubxxw.com/zh/ai-agent/posts/super-individual-stack-production/)
+* [超级个体的四层 AI 装备栈：什么才会真正复利](https://cubxxw.com/zh/ai-agent/posts/super-individual-stack-four-layers/)
+* [你的 Mac 上有几套工具在打架？我设计了一个开发机体检 Skill](https://cubxxw.com/zh/ai-agent/posts/devbox-doctor-design/)
+* [Agent Skill 与 SKILL.md 设计：我拆了一个敢删文件的插件](https://cubxxw.com/zh/ai-agent/posts/designing-valuable-agent-skills/)
+* [搭建 AI 知识库：从零散笔记到可执行工作流](https://cubxxw.com/zh/ai-agent/posts/info-to-creation-arsenal/)
+* [一个人带一队 Agent，把 120 多篇文章的博客重新组装了一遍](https://cubxxw.com/zh/ai-agent/posts/ai-native-blog-rebuild/)
+* [2026 AI Agent 红海与蓝海：垂直工作流、支付协议与责任护城河](https://cubxxw.com/zh/ai-agent/posts/ai-agent-red-ocean-blue-ocean-2026/)
+* [如何建立对无人值守 AI Agent 的真实信任](https://cubxxw.com/zh/ai-agent/posts/trusting-unattended-ai-agent/)
+* [超级个体的情报系统：从信源监测到可靠行动](https://cubxxw.com/zh/ai-agent/posts/super-individual-intelligence-system/)
+* [一个人养得起多大的 Agent 舰队：2026 年低价 API 与开放权重模型的成本账](https://cubxxw.com/zh/ai-agent/posts/open-model-cost-collapse-agent-fleet/)
+* [当 AI Agent 开始反过来提示你，真正改变了什么](https://cubxxw.com/zh/ai-agent/posts/proactive-agent-it-prompts-you/)
+* [让 AI 自动帮你追全网资讯，最后会卡在哪里](https://cubxxw.com/zh/ai-agent/posts/ai-auto-news-pipeline-limits/)
+* [拆到最后，剩下的才是你：一场关于无我、痛苦与"怎么说都可以"的追问](https://cubxxw.com/zh/growth/posts/2026-07-14-what-remains-when-taken-apart/)
+* [从 Chatbot 到 Agent 到 Skill：AI 落地传统行业的真正分水岭](https://cubxxw.com/zh/ai-agent/posts/from-chatbot-to-agent-to-skill/)
+* [给 AI 任务，不只给方向：用完成态把协作落到结果](https://cubxxw.com/zh/ai-agent/posts/give-ai-tasks-not-directions/)
+* [摩擦即成长：当 AI 替你消除一切阻力，请主动留下一些](https://cubxxw.com/zh/growth/posts/friction-is-growth/)
+* [AI 工作流质量门禁：把软件工程的纪律搬进个人系统](https://cubxxw.com/zh/ai-agent/posts/engineering-discipline-ai-workflow/)
+* [AI 第二大脑实操：Obsidian、Agent 与微信入口](https://cubxxw.com/zh/ai-agent/posts/ai-second-brain-build/)
+* [AI 内容创作工作流：把知识重组成读者愿意接收的作品](https://cubxxw.com/zh/ai-agent/posts/info-to-creation-creation/)
+* [AI 知识库工作流：把记录变成可验证、可复用的能力](https://cubxxw.com/zh/ai-agent/posts/info-to-creation-knowledge/)
+* [AI 记录工作流：把易逝输入变成可验证的半成品](https://cubxxw.com/zh/ai-agent/posts/info-to-creation-record/)
+* [AI 信息筛选工作流：抓住信号，不建噪音仓库](https://cubxxw.com/zh/ai-agent/posts/info-to-creation-information/)
+* [AI 知识工作流：从信息、记录、知识到创作](https://cubxxw.com/zh/ai-agent/posts/info-to-creation-the-framework/)
+* [2026 GEO 度量指南：可复现的 AI 引用与转介监测方法](https://cubxxw.com/zh/ai-agent/posts/geo-measurement-and-tools/)
+* [GEO 博客改造复盘：用真实数据重跑五层模型](https://cubxxw.com/zh/ai-agent/posts/geo-blog-rebuild-case-study/)
+* [GEO 站外信任：身份、证据与合乎伦理的社区分发](https://cubxxw.com/zh/ai-agent/posts/geo-trust-and-endorsement/)
+* [GEO 结构化内容实战：先服务读者，再验证 AI 可见度](https://cubxxw.com/zh/ai-agent/posts/geo-structured-content-tactics/)
+* [AI 搜索如何检索与引用来源：一套可验证的 GEO 模型](https://cubxxw.com/zh/ai-agent/posts/geo-how-ai-retrieves-and-cites/)
+* [2026 GEO 实证指南：证据、边界与可执行工作流](https://cubxxw.com/zh/ai-agent/posts/geo-generative-engine-optimization-guide/)
+* [2026年6月思考笔记：推开的动作，先于推开的理由](https://cubxxw.com/zh/growth/posts/2026-06-thought-notes/)
+* [open-lovable 源码拆解：Agentic Search、文本协议与双沙箱](https://cubxxw.com/zh/ai-agent/posts/dissecting-open-lovable/)
+* [点火与沉底（下）：焦虑型依恋——为什么爱里我们总在确认](https://cubxxw.com/zh/growth/posts/2026-06-28-ignite-and-settle-3-anxious/)
+* [点火与沉底（中）：回避型依恋——为什么靠近时我们想逃](https://cubxxw.com/zh/growth/posts/2026-06-28-ignite-and-settle-2-avoidant/)
+* [点火与沉底（上）：陪伴的质量与时间，和我们为什么总在快要靠近时转身](https://cubxxw.com/zh/growth/posts/2026-06-28-ignite-and-settle-1-quality-and-time/)
+* [超级个体的栈：2026 年 AI 原生 Solo Builder 的产品方向与运营全图](https://cubxxw.com/zh/growth/posts/super-individual-ai-product-and-solo-builder-stack/)
+* [Relay Agent 架构审计：从设计承诺到本地实现](https://cubxxw.com/zh/ai-agent/posts/relay-agent-architecture-design/)
 
 <!-- My-Blog:END -->
 
@@ -224,7 +269,7 @@ graph LR
 
 #### 📝补充
 
-学习开源项目对于我们的成长非常大，我结合我自己的开源经历写了[这篇🎯开源之路：跨越八个阶段，成就行业佼佼者](https://nsddd.notion.site/f8854a0f60d346d98b9eb2ccb6eaef8f)。同[🧋 学习 Kubernetes 的成长轨迹](https://nsddd.notion.site/CloudNative-Kubernetes-2f278e98ed274999829333272415c72d)一样，这篇文章将会长期更新，也可以参与贡献 ，补全更新\~。[k8s-iam](https://github.com/cubxxw/k8s-iam) ⭐ 2 | 🐛 0 | 🌐 Makefile | 📅 2023-04-28 项目就是我结合Kubernetes 和 iam 这两个极为优秀的项目联合打造的k8s-iam 项目，对 [企业级 iam 项目](https://github.com/marmotedu/iam/) ⭐ 4,213 | 🐛 24 | 🌐 Go | 📅 2025-03-20 进行学习和仿写，以及对开源文档和技术细节的输出。iam 技术栈涵盖了开发环境配置、代码设计、常用包使用、HTTP、客户端CLI、RESTful设计、数据库操作、Swagger文档、Cache机制、业务逻辑处理、开发规范、API调试、部署方式和云原生架构设计等方面。有兴趣的可以一起阅读学习。
+学习开源项目对于我们的成长非常大，我结合我自己的开源经历写了[这篇🎯开源之路：跨越八个阶段，成就行业佼佼者](https://nsddd.notion.site/f8854a0f60d346d98b9eb2ccb6eaef8f)。同[🧋 学习 Kubernetes 的成长轨迹](https://nsddd.notion.site/CloudNative-Kubernetes-2f278e98ed274999829333272415c72d)一样，这篇文章将会长期更新，也可以参与贡献 ，补全更新\~。[k8s-iam](https://github.com/cubxxw/k8s-iam) ⭐ 2 | 🐛 0 | 🌐 Makefile | 📅 2023-04-28 项目就是我结合Kubernetes 和 iam 这两个极为优秀的项目联合打造的k8s-iam 项目，对 [企业级 iam 项目](https://github.com/marmotedu/iam/) ⭐ 4,212 | 🐛 24 | 🌐 Go | 📅 2025-03-20 进行学习和仿写，以及对开源文档和技术细节的输出。iam 技术栈涵盖了开发环境配置、代码设计、常用包使用、HTTP、客户端CLI、RESTful设计、数据库操作、Swagger文档、Cache机制、业务逻辑处理、开发规范、API调试、部署方式和云原生架构设计等方面。有兴趣的可以一起阅读学习。
 
 🥇 命名规范以及项目目录结构📇的设定对于一名合格的工程师来说也是非常重要的。下面是作为一名合格的开发者🤵，必须要会的基本素养。
 
@@ -348,7 +393,7 @@ CS 系列选自[🎉awesome-cs-course](https://github.com/cubxxw/awesome-cs-cour
 
 为了方便管理，我将所有的知识仓库以及贡献开源项目所克隆的仓库放在了我的个人账户 [cubxxw](https://github.com) 中，将所有的项目和规范有关的仓库都放在了自己创建的社区 [kubecub](https://github.com/kubecub) 中方便所有人加入并且学习，并且将所有自动化相关的账户都使用了 [robot(kubbot)](https://github.com/kubbot) 机器人来进行自动化和控制。
 
-我参与过很多顶级开源社区，包括 [sealer](https://github.com/sealerio/sealer) ⭐ 2,090 | 🐛 225 | 🌐 Go | 📅 2025-06-03、[sealos](https://github.com/labring/sealos) ⭐ 18,386 | 🐛 52 | 🌐 Go | 📅 2026-10-30、[Kubernetes](https://github.com/kubernetes/kubernetes/) ⭐ 128,521 | 🐛 3,191 | 🌐 Go | 📅 2026-10-30、[OpenIM](https://github.com/OpenIMSDK)、[K8sgpt](https://github.com/k8sgpt-ai/k8sgpt) ⭐ 8,285 | 🐛 66 | 🌐 Go | 📅 2026-10-30、[Horizon](https://github.com/horizoncd/horizon/) ⭐ 258 | 🐛 4 | 🌐 Go | 📅 2026-06-17 以及 我自己打造的 开源社区 [Kubecub](https://github.com/kubecub)。kubecub 中有很多我沉淀下来的开源规范以及代码、项目规范都总结在各个仓库中。并且，Kubecub 和 OpenIM 使用了我创造的 [🤖 robot(kubbot)](https://github.com/kubbot) 来对 PR 和 Issue 高度自动化。kubecub 宗旨是面向所有的开发者进行学习和创造的，你可以在里面利用我们的自动化工具和模板打造自己的开源项目，并且让更多的人来帮助你协同、review 代码。
+我参与过很多顶级开源社区，包括 [sealer](https://github.com/sealerio/sealer) ⭐ 2,090 | 🐛 225 | 🌐 Go | 📅 2025-06-03、[sealos](https://github.com/labring/sealos) ⭐ 18,387 | 🐛 54 | 🌐 Go | 📅 2026-10-31、[Kubernetes](https://github.com/kubernetes/kubernetes/) ⭐ 128,621 | 🐛 3,206 | 🌐 Go | 📅 2026-10-31、[OpenIM](https://github.com/OpenIMSDK)、[K8sgpt](https://github.com/k8sgpt-ai/k8sgpt) ⭐ 8,286 | 🐛 66 | 🌐 Go | 📅 2026-10-30、[Horizon](https://github.com/horizoncd/horizon/) ⭐ 258 | 🐛 4 | 🌐 Go | 📅 2026-06-17 以及 我自己打造的 开源社区 [Kubecub](https://github.com/kubecub)。kubecub 中有很多我沉淀下来的开源规范以及代码、项目规范都总结在各个仓库中。并且，Kubecub 和 OpenIM 使用了我创造的 [🤖 robot(kubbot)](https://github.com/kubbot) 来对 PR 和 Issue 高度自动化。kubecub 宗旨是面向所有的开发者进行学习和创造的，你可以在里面利用我们的自动化工具和模板打造自己的开源项目，并且让更多的人来帮助你协同、review 代码。
 
 在里面积累了很多的开源经验，并且记录在我的 [博客](https://cubxxw.com) 中，其中，很多的提案和在贡献的成长笔记，所学习到的知识都在 [CloudNative](https://docker.cubxxw.com/Cloud-Native/) 这篇知识库中有所记录。
 
@@ -384,7 +429,7 @@ CS 系列选自[🎉awesome-cs-course](https://github.com/cubxxw/awesome-cs-cour
 
 <br>
 
-<font size = 2>🎯 如果你也想对本项目做出贡献，那么你可以先把该项目进行 [fork](https://github.com/cubxxw/cs-awesome-Block_Chain/fork) ⭐ 1,378 | 🐛 0 | 🌐 Solidity | 📅 2026-10-30或者 `git clone` 到本地（推荐先用 [fock](https://github.com/cubxxw/cs-awesome-Block_Chain/fork) ⭐ 1,378 | 🐛 0 | 🌐 Solidity | 📅 2026-10-30到自己仓库，然后再clone到本地，对本地进行操作，最后从自己仓库贡献，然后自己建立一个分支 `your-branch`，然后上传资料到 对应目录 下，图片信息可以上传到` /images`，然后更新 `README`。 </font>
+<font size = 2>🎯 如果你也想对本项目做出贡献，那么你可以先把该项目进行 [fork](https://github.com/cubxxw/cs-awesome-Block_Chain/fork) ⭐ 1,378 | 🐛 0 | 🌐 HTML | 📅 2026-10-31或者 `git clone` 到本地（推荐先用 [fock](https://github.com/cubxxw/cs-awesome-Block_Chain/fork) ⭐ 1,378 | 🐛 0 | 🌐 HTML | 📅 2026-10-31到自己仓库，然后再clone到本地，对本地进行操作，最后从自己仓库贡献，然后自己建立一个分支 `your-branch`，然后上传资料到 对应目录 下，图片信息可以上传到` /images`，然后更新 `README`。 </font>
 
 ## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Recent activity [![Time period](https://images.repography.com/26892425/3293172751/Block_Chain/recent-activity/04864df8cf8f1f104b2b9453e0b47498_badge.svg)](https://repography.com)
 
@@ -410,4 +455,4 @@ CS 系列选自[🎉awesome-cs-course](https://github.com/cubxxw/awesome-cs-cour
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
