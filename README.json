@@ -296,7 +296,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T14:03:51.385Z",
+    "last_updated": "2026-11-02T16:50:57.067Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡......",
@@ -304,7 +304,7 @@
       "id": 444328164,
       "language": "HTML",
       "license": "BSL-1.0",
-      "last_commit": "2026-10-31T06:56:01Z",
+      "last_commit": "2026-11-01T15:04:39Z",
       "open_issues": 0,
       "owner": "cubxxw",
       "repo": "awesome-cs-cloudnative-blockchain",
@@ -326,7 +326,7 @@
         "web"
       ]
     },
-    "original_repository_sha": "ba5134b76b644652e3a634b33737fc4696b4f2aa",
+    "original_repository_sha": "2378d3c7b4d9c4f558476a5c51f7678a3fe6e646",
     "enhanced_repository": "enhansome/enhansome-cs-cloudnative-blockchain",
     "enhanced_repository_description": null,
     "title": "Awesome 菜鸟的成长手册 with stars"
